@@ -1,0 +1,14 @@
+The file contains the assignement to extract details of movie Pushpa fro below two websites
+IMDB and WIKI
+
+Have used Selenium Webdriver with BDD Framework for the coding.
+
+To run the Project the tools to be used are IntelliJ Ide and maven
+
+Have Imported the Selenium dependency and added it in the POM.xml file
+
+Steps to Execute the tests
+
+Download the project folder from the github
+Import the maven project to the IDE
+Then right click on the tests and Click on Run
